@@ -1,2 +1,8 @@
-<h1>Welcome to SvelteKit</h1>
-<p>Visit <a href="https://kit.svelte.dev">kit.svelte.dev</a> to read the documentation</p>
+<script>
+</script>
+
+<div class="center">
+
+    <h1 class="display-1">Commonwealth Of Sequoyah</h1>
+
+</div>
