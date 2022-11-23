@@ -1,6 +1,6 @@
 {
   "node_modules/@sveltejs/kit/src/runtime/client/start.js": {
-    "file": "_app/immutable/start-3abd9ad8.js",
+    "file": "_app/immutable/start-d8907db4.js",
     "src": "node_modules/@sveltejs/kit/src/runtime/client/start.js",
     "isEntry": true,
     "imports": [
@@ -31,7 +31,7 @@
     ]
   },
   "src/routes/+page.svelte": {
-    "file": "_app/immutable/components/pages/_page.svelte-fa1c36fc.js",
+    "file": "_app/immutable/components/pages/_page.svelte-657f7224.js",
     "src": "src/routes/+page.svelte",
     "isEntry": true,
     "imports": [
@@ -39,11 +39,11 @@
     ]
   },
   "src/routes/+layout.ts": {
-    "file": "_app/immutable/modules/pages/_layout.ts-b8ee4d7c.js",
+    "file": "_app/immutable/modules/pages/_layout.ts-1af7340e.js",
     "src": "src/routes/+layout.ts",
     "isEntry": true,
     "imports": [
-      "__layout-1daba58d.js"
+      "__layout-0e8da386.js"
     ]
   },
   "_singletons-dd3327e6.js": {
@@ -55,15 +55,18 @@
   "_index-8f0aa09d.js": {
     "file": "_app/immutable/chunks/index-8f0aa09d.js"
   },
-  "__layout-1daba58d.js": {
-    "file": "_app/immutable/chunks/_layout-1daba58d.js"
+  "__layout-0e8da386.js": {
+    "file": "_app/immutable/chunks/_layout-0e8da386.js",
+    "css": [
+      "_app/immutable/assets/_layout-48fa63fb.css"
+    ]
   },
   ".svelte-kit/generated/nodes/0.js": {
-    "file": "_app/immutable/chunks/0-f376fce6.js",
+    "file": "_app/immutable/chunks/0-00bb7f9f.js",
     "src": ".svelte-kit/generated/nodes/0.js",
     "isDynamicEntry": true,
     "imports": [
-      "__layout-1daba58d.js",
+      "__layout-0e8da386.js",
       "node_modules/@sveltejs/kit/src/runtime/components/layout.svelte"
     ]
   },
@@ -76,11 +79,15 @@
     ]
   },
   ".svelte-kit/generated/nodes/2.js": {
-    "file": "_app/immutable/chunks/2-091380b5.js",
+    "file": "_app/immutable/chunks/2-ad093e74.js",
     "src": ".svelte-kit/generated/nodes/2.js",
     "isDynamicEntry": true,
     "imports": [
       "src/routes/+page.svelte"
     ]
+  },
+  "_layout.css": {
+    "file": "_app/immutable/assets/_layout-48fa63fb.css",
+    "src": "_layout.css"
   }
 }
